@@ -26,7 +26,7 @@ public int getage() - Returns the age.
 public String getemail() - Returns the email.
 Encap Class (Main Class)
 
-##Methods:
+## Methods:
 public static void main(String[] args) - Main method to demonstrate the usage of the Instagram class.
 
 ## Usage
@@ -48,3 +48,5 @@ javac Instagram.java Encap.java
 Copy code
 java Encap
 
+## Contributing:
+Contributions to improve the clarity, efficiency, or functionality of the code are welcome. Please feel free to fork this repository, make your changes, and submit a pull request. Additionally, if you encounter any bugs or have suggestions for enhancements, don't hesitate to open an issue.
